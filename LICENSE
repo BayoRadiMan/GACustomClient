@@ -1,0 +1,31 @@
+GA Custom Client - End-User License Agreement (EULA)
+Last Updated: January 12, 2026
+
+Copyright (c) 2026 BayoRadiMan. All Rights Reserved.
+
+1. GRANT OF LICENSE
+BayoRadiMan ("Licensor") hereby grants you a personal, non-exclusive, non-transferable, limited license to use the Gemini Advanced Client ("Software") on your devices in accordance with the terms of this agreement. You are permitted to load the Software (for example on a PC or Laptop) under your control.
+
+2. RESTRICTIONS
+You shall not, and shall not permit others to:
+
+Reverse Engineer: Decompile, disassemble, or attempt to derive the source code of the Software.
+
+Commercial Redistribution: Sell, rent, lease, or sub-license the Software for profit without express written consent from the Licensor.
+
+Malicious Use: Use the Software for any purpose that violates local, state, national, or international laws.
+
+3. INTELLECTUAL PROPERTY & OWNERSHIP
+The Software, including its design, code structure, "look and feel," and branding, is the intellectual property of BayoRadiMan. This agreement is a license to use the Software, not a sale of the Software. All rights not expressly granted to you are reserved by the Licensor.
+
+4. DATA PRIVACY & COOKIES
+The Software is a browser wrapper. It does not collect personal data for the Licensor. However, the Software uses the Microsoft WebView2 engine. Any data collected by third-party websites (such as Google/Gemini) is subject to their respective privacy policies. Your cookies and profile data are stored locally in the "UserData" folder created by the Software.
+
+5. NO WARRANTY (THE "AS-IS" CLAUSE)
+THE SOFTWARE IS PROVIDED "AS IS" AND "WITH ALL FAULTS." THE LICENSOR MAKES NO WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. THE LICENSOR DOES NOT GUARANTEE THAT THE SOFTWARE WILL BE ERROR-FREE OR UNINTERRUPTED.
+
+6. LIMITATION OF LIABILITY
+IN NO EVENT SHALL BAYORADIMAN BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF PROFITS, BUSINESS INTERRUPTION, OR LOSS OF DATA) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF THE LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+7. TERMINATION
+This license is effective until terminated. Your rights under this license will terminate automatically without notice if you fail to comply with any term(s) of this agreement. Upon termination, you shall cease all use of the Software and delete all copies.
