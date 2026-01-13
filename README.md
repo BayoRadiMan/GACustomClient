@@ -10,6 +10,7 @@ GACustom Client is a portable Windows application designed to provide a clean, i
 
 * **🗄️ Profile Isolation:** All cookies, history, and session data are stored locally in the `UserData` folder.
 * **📦 Zero Installation:** A single standalone `.exe` file. No installers, no registry clutter.
+* **🛡️ Integrated Crash Logger:** Automatically captures technical details during unexpected errors or crashes to help with troubleshooting.
 * **🔄 Smart Auto-Update:** Built-in version checking that automatically backs up your old version before upgrading.
 * **🚀 Performance Focused:** Powered by the Microsoft WebView2 (Chromium) engine for modern web compatibility and speed.
 
@@ -34,6 +35,7 @@ Because this is an independent, unsigned C# application:
 Upon first launch, the client will create the following in its directory:
 * `UserData/`: Your isolated browser profile (Keep this private!).
 * `Backups/`: Previous versions of the client saved during auto-updates.
+* `CrashLogs/`: Diagnostic files created automatically if the application encounters an error.
 
 ---
 
