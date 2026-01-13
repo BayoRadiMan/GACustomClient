@@ -1,0 +1,33 @@
+```text
+
+╔══════════════════════════════════════════════════════════════════════════╗
+║                 GACustom Client - Update Log 2026/01/13                  ║
+║  Version: 1.0.0.2                      Build ID: 0.94D-FKNMAGIC          ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  [ NEW FEATURES & LOGIC ]                                                ║
+║  * Chronological Build System: Migrated to YYYYMMDD format for           ║
+║    accurate build tracking and downgrade prevention.                     ║
+║  * Navigation Controls: Added Back (←) and Forward (→) buttons.          ║
+║  * GitHub Integration: Added direct repository link in About section.    ║
+║                                                                          ║
+║  [ STABILITY & COMPATIBILITY ]                                           ║
+║  * Advanced Crash Reporting: Integrated new 'CrashLogEngine' for         ║
+║    automated technical diagnostics.                                      ║
+║  * Automatic Log Organization: Created 'crash_logs' directory with       ║
+║    timestamped subfolders (YYYY/MM/DD).                                  ║
+║  * WebView2 Runtime Guard: Implemented 'DependencyChecker' class         ║
+║    to verify browser engine before launch.                               ║
+║  * Hybrid Detection: Fixed false positive errors using Registry + DLL    ║
+║    verification logic.                                                   ║
+║  * Startup Protection: Added entry-point exception handling for          ║
+║    user-friendly error feedback.                                         ║
+║                                                                          ║
+║  [ UI & REFINEMENTS ]                                                    ║
+║  * NavBar Layout: Adjusted Refresh/New Tab/Shortcuts to fit navigation.  ║
+║  * "About" Restoration: Fixed License button; now opens EULA correctly.  ║
+║  * Code Optimization: Performed core logic rewrites for performance.     ║
+║                                                                          ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║  NOTE: Provide files from /crash_logs/ for developer support if needed.  ║
+╚══════════════════════════════════════════════════════════════════════════╝
