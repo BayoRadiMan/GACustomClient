@@ -1,6 +1,39 @@
 ```text
 
 ╔══════════════════════════════════════════════════════════════════════════╗
+║                    GACustom Client - Update Log 2026/01/15               ║
+║  Version: 1.0.0.3                                                        ║
+║  Build ID: 2.00A-202601152018_FKNMAGIC                                   ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  [ SECURITY & IDENTITY ]                                                 ║
+║  * Authenticode Integration: Officially implemented digital signing      ║
+║    using the 'BayoRadiMan' developer certificate.                        ║
+║  * Integrity Verification: Added SHA-256 hashing to ensure the .exe      ║
+║    has not been tampered with or modified by third parties.              ║
+║  * Trusted Execution: Optimized for Windows SmartScreen to recognize     ║
+║    the software as coming from a verified publisher.                     ║
+║                                                                          ║
+║  [ DEPLOYMENT SYSTEM ]                                                   ║
+║  * RFC 3161 Timestamping: Integrated DigiCert timestamping server        ║
+║    to maintain signature validity long after certificate expiration.     ║
+║  * Modern Hashing: Migrated from older signing standards to SHA-256      ║
+║    to meet 2026 security requirements for Windows 10/11.                 ║
+║                                                                          ║
+║  [ OPTIMIZATION ]                                                        ║
+║  * Distribution Ready: Signed status allows for smoother sharing and     ║
+║    lowers the "risk" flags in modern antivirus heuristic engines.        ║
+║  * Workflow Update: Finalized the 'one-click' signing pipeline for       ║
+║    all future experimental and stable builds.                            ║
+║                                                                          ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║ NOTE: This build confirms the migration to a verified development cycle. ║
+╚══════════════════════════════════════════════════════════════════════════╝
+
+
+
+
+╔══════════════════════════════════════════════════════════════════════════╗
 ║                   GACustom Client - Update Log 2026/01/15                ║
 ║  Version: 1.0.0.3                                                        ║
 ║  Build ID: 1.00A-202601151900_FKNMAGIC                                   ║
