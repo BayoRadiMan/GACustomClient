@@ -1,6 +1,45 @@
 ```text
 
 ╔══════════════════════════════════════════════════════════════════════════╗
+║                   GACustom Client - Update Log 2026/01/15                ║
+║  Version: 1.0.0.3                                                        ║
+║  Build ID: 1.00A-202601151900_FKNMAGIC                                   ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  [ NEW FEATURES & LOGIC ]                                                ║
+║  * Persistence Engine: Integrated sc.txt file handling for permanent     ║
+║    storage of user-defined sidebar shortcuts.                            ║
+║  * Real-Time URL Sync: Implemented SelectedIndexChanged logic to         ║
+║    instantly refresh search bar content when switching tabs.             ║
+║  * Dynamic Shortcut Management: Added interactive '+' (Add) and '-'      ║
+║    (Remove) functionality with real-time sidebar UI updates.             ║
+║                                                                          ║
+║  [ DOWNLOAD SYSTEM ]                                                     ║
+║  * Themed Download Notifications: Replaced system prompts with custom    ║
+║    dark-mode "Toasts" for non-intrusive download completion alerts.      ║
+║  * Direct Directory Access: Added "Open Folder" quick-action logic       ║
+║    directly within the download success prompt.                          ║
+║  * Download State Tracking: Optimized info-box feedback to display       ║
+║    accurate file paths and names upon successful completion.             ║
+║                                                                          ║
+║  [ UI & REFINEMENTS ]                                                    ║
+║  * Tab Standardization: Forced Fixed-Width TabSizeMode (150px) to        ║
+║    maintain UI symmetry regardless of website title length.              ║
+║  * Smart Title Toasts: Integrated ToolTip logic with 1000ms hover        ║
+║    delay to display full tab names/URLs for truncated items.             ║
+║  * Ellipsis Rendering: Updated TabControl drawing logic to support       ║
+║    graceful text fading (...) on long titles without UI bleed.           ║
+║  * Contextual Controls: Hover-to-reveal delete button added to sidebar   ║
+║    items to maximize workspace cleanliness.                              ║
+║                                                                          ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║  NOTE: If shortcuts fail to load, ensure 'sc.txt' is in the root folder. ║
+╚══════════════════════════════════════════════════════════════════════════╝
+
+
+
+
+╔══════════════════════════════════════════════════════════════════════════╗
 ║                 GACustom Client - Update Log 2026/01/13                  ║
 ║  Version: 1.0.0.2                                                        ║
 ║  Build ID: 0.94D-TEST202601131433_FKNMAGIC                               ║
