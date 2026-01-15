@@ -1,0 +1,37 @@
+# 🗺️ GA Custom Client - Project Roadmap
+
+This document outlines the planned improvements and long-term vision for the **GA Custom Client**.
+
+### ⚠️ Project Philosophy & Disclaimer
+**Development is iterative and developer-led.** This roadmap is a living document intended to show the project's direction, not a final commitment. Because the GA Custom Client prioritizes being lightweight, secure, and stable, features may be changed, delayed, or removed entirely if they no longer fit the project's technical standards. **No feature is considered 100% confirmed until it is officially documented in a stable release note.**
+
+---
+
+## ✅ Completed Milestones
+* **Core Engine:** Fully isolated `UserData` profiles and WebView2 integration.
+* **v1.0.0.3:** * 🛡️ **Active Security:** Real-time cryptographic self-check system (Signature Verification).
+    * 🌐 **Smart Navigation:** Automatic HTTPS resolution for domains.
+    * 💎 **Branding:** Professional metadata and signature verification logic.
+
+---
+
+## 🕒 Upcoming Improvements (Under Consideration)
+* [ ] **Custom Context Menus:** Native right-click menus styled specifically for the Client UI.
+* [ ] **Shortcut Categories:** Organization system to group sidebar shortcuts into folders.
+* [ ] **Performance Profiles:** Toggle between "Standard" and "Low Memory" modes for high-instance workflows.
+* [ ] **Advanced Download UI:** Improved tracking and visibility for file transfer progress.
+
+---
+
+## 🛠 Tech Stack Maintenance
+* [ ] **WebView2 Updates:** Keeping the core engine synchronized with the latest Evergreen runtime.
+* [ ] **UI Polish:** General refinements to the main browser interface for a cleaner look.
+* [ ] **Security Hardening:** Maintaining the digital signature logic and integrity audit system to ensure high trust scores.
+
+---
+
+## 💡 Feedback & Feature Requests
+If you have a suggestion that fits the lightweight, portable philosophy of this project, please open an **Issue** with the `enhancement` tag.
+
+---
+*Last Updated: 2026/01/15*
