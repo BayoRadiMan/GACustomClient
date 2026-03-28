@@ -1,6 +1,36 @@
 ```text
 
 ╔══════════════════════════════════════════════════════════════════════════╗
+║                    GACustom Client - Update Log 2026/03/28               ║
+║  Version: 1.0.0.3                                                        ║
+║  Build ID: 2.50B-202603282152_FKNMAGIC                                   ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  [ NEW: PHANTOM AUDIO ELIMINATION ]                                      ║
+║  * Hard-Kill Tab Termination: Closing a tab now triggers an explicit     ║
+║    .Dispose() command. This fully purges the WebView2 instance.          ║
+║  * Process Cleanup: Residual "ghost" threads are now forcibly            ║
+║    terminated upon tab closure to ensure 0% background CPU leakage.      ║
+║                                                                          ║
+║  [ NEW: MANUAL HIBERNATION TOGGLE ]                                      ║
+║  * Crescent Moon Protocol: Integrated a manual 'Sleep' button per        ║
+║    tab to explicitly disconnect background pages from resources.         ║
+║  * Session Restoration: Hibernated tabs remain suspended until           ║
+║    manually re-selected, providing total hardware footprint control.     ║
+║                                                                          ║
+║  [ SYSTEM STABILIZATION ]                                                ║
+║  * Codebase Scrubbing: Performed a logic-refinement pass.                ║
+║    Streamlined internal layout calls for 1:1 modular expansion.          ║
+║                                                                          ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║ NOTE: This build focuses on 'Silent Operations' and resource efficiency. ║
+║ Status: Verified and optimized for secure distribution.                  ║
+╚══════════════════════════════════════════════════════════════════════════╝
+
+
+
+
+╔══════════════════════════════════════════════════════════════════════════╗
 ║                    GACustom Client - Update Log 2026/01/15               ║
 ║  Version: 1.0.0.3                                                        ║
 ║  Build ID: 2.10A-202601152229_FKNMAGIC                                   ║
